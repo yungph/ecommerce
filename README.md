@@ -37,13 +37,12 @@ This project is a comprehensive eCommerce platform built with Java Spring Boot, 
   - Hibernate as the ORM framework
   - 
 - **Database:**
-  - MySQL or PostgreSQL for relational database management
+  - MySQL for relational database management
   - H2 Database for testing and development environments
 
 - **Other Integrations:**
   - RESTful APIs for communication between frontend and backend
   - Swagger for API documentation
-  - Docker for containerization and easy deployment
 
 
 ### Conclusion
